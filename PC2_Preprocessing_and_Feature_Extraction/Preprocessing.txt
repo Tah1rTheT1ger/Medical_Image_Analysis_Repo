@@ -1,0 +1,10 @@
+Pre Process
+
+Windowing
+Clahe
+Bilateral Filtering
+
+
+Feature Extraction
+
+LBP

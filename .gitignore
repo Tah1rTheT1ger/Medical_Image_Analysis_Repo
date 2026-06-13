@@ -1,0 +1,15 @@
+# Datasets and images
+Dataset/
+archive/
+archive_tarun_dataset/
+SavitruImages/
+Pancreas/
+results/
+backup/
+
+# Model weights
+*.pth
+*.onnx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
